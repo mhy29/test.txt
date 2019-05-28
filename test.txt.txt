@@ -2,7 +2,10 @@ adhmjk (hhjj)
 
 function {
 
-; should add content here and save
+I am making changes to this file by adding content
+add character A
+add character B
+add character C
 
 }
 
